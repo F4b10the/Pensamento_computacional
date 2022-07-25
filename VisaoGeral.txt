@@ -1,0 +1,19 @@
+Quatro pilares do pensamento computacional
+
+Decomposição: 
+- Dividir um problema maior, em vários menores 
+
+Reconhecimento de padrões: 
+- Similaridades e diferenças entre problemas
+
+Abstração: 
+- Extrapolar o conceito de um problema particular, de uma forma generalista
+- Como uma formula matemática, padronizando um calculo para diversas soluções
+- Ou pensar em uma interface que se encaixa em varios tamanhos e dispositivos diferentes
+
+
+Design de algoritmos: 
+- Automatização, definir o passo a passo para a resolução do problema.
+
+>> Decompomos um problema, procuramos por padrões, abstraimos para uma forma generalista e definimos o passo 
+a passo para a resolução do mesmo.
