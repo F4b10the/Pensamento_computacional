@@ -1,0 +1,7 @@
+> DECOMPOSIÇÃO
+- Dado um problema maior, mais complexo, divida-o em pedações menores, mais fáceis de solucionar e gerenciar.
+
+1 - Análise:
+- Examinar detalhadamente, afim de decompor em partes menores.
+2 - Sintese:
+- Unir os pedaços maiores, afim de recompor o problema original.
