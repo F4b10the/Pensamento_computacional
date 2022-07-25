@@ -1,7 +1,15 @@
 > DECOMPOSIÇÃO
-- Dado um problema maior, mais complexo, divida-o em pedações menores, mais fáceis de solucionar e gerenciar.
+- Dado um problema maior, mais complexo, divida-o em pedaçõs menores, mais fáceis de solucionar e gerenciar.
 
 1 - Análise:
 - Examinar detalhadamente, afim de decompor em partes menores.
 2 - Sintese:
 - Unir os pedaços maiores, afim de recompor o problema original.
+
+> Decomposição sequencial:
+- Exige uma resolução sequencial, sendo a solução do problema anterior, necessária para a solução do posterior.
+
+> Decomposição paralela:
+- Problemas são solucionados concomitantemente, sendo agregados depois.
+
+* Existem maneiras distintas de decompor o mesmo problema.
