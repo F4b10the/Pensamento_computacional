@@ -1,0 +1,11 @@
+>> RECONHECIMENTO DE padrões
+
+- MODELO BASE
+- ESTRUTURA INVARIANTE
+- REPETIÇÃO
+
+* TEM-SE O INTUITO DE GENERALIZAR PADRÕES, AFIM DE SE CONSEGUIR SOLUCIONAR DIFENTENTES PROBLEMAS 
+* COM AS MESMAS SOLUÇÕES
+
+- Computador reconhece padrões através de comparação, mas ele nao tem a capacidade de ser subjetivo, ele simula
+- esse conhecimento atrasvés de um banco de dados + regras de decisão

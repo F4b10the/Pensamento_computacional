@@ -1,0 +1,17 @@
+ --RACIOCÍNIO LÓGICO E APERFEIÇOAMENTO
+
+ > Raciocínio lógico: 
+ - Forma de pensamento estruturado, que nos permite solucionar um problema.
+    - Indução: Empirismo, leis e teorias baseadas na observação - ciência experimental
+    - Dedução: Deduzir através de leis e teorias - ciência exata
+    - Abdução: A partir da conclusão você propõe uma premissa, que pode ou não ser verdadeira - ciência investigativa
+
+    > Inferência:
+    - Sintética - Indução e abdução
+    - Analitica - Dedução
+
+> Aperfeiçoamento:
+- Melhor uso de recursos, melhorar códigos e algoritmos.
+- Funções bem definidas.
+- Simplificar linhas de codigo.
+- Encontrar soluções mais eficientes.
